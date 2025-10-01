@@ -1,2 +1,2 @@
-# PDF-to-XLXS
-PDF dosyalarını XLXS dosyasına dönüştürme programı
+# PDF-to-XLSX
+PDF dosyalarını XLSX dosyasına dönüştürme programı
